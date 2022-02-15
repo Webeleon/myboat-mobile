@@ -1500,10 +1500,10 @@
   resolved "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.3.tgz"
   integrity sha512-KfRL3PuHmqQLOG+2tGpRO26Ctg+Cq1E01D2DMriKEATHgWLfeNDmq9e29Q9WIky0dQ3NPkd1mzYH8Lm936Z9qw==
 
-"@types/react-native@0.66.15":
-  version "0.66.15"
-  resolved "https://registry.npmjs.org/@types/react-native/-/react-native-0.66.15.tgz"
-  integrity sha512-qNK3LZhNpSd2Hdr0OFdvQ/VOb1qcjNhmw96LsOtxIN+1RtXHO/1dVzxYUlWnKMCtV+E5WSaWM703c9Q7gG9tyg==
+"@types/react-native@0.66.16":
+  version "0.66.16"
+  resolved "https://registry.npmjs.org/@types/react-native/-/react-native-0.66.16.tgz"
+  integrity sha512-TsMV/4gW9WTu/6Iuyrm8+UaClIcgJ+1FqVUqDgMvp/Ys+cF+q1GFid3ZPYHYmVZTfOoowY+e3Vd8zFufVL7HLQ==
   dependencies:
     "@types/react" "*"
 
