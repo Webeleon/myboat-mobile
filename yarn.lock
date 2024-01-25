@@ -1605,10 +1605,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-test-renderer@16.9.8":
-  version "16.9.8"
-  resolved "https://registry.npmjs.org/@types/react-test-renderer/-/react-test-renderer-16.9.8.tgz"
-  integrity sha512-5zmgK3rWLQLX8VwcK94KqCnXTmirDFgsJOElNbnvNJ7v6QIg3SBqZgH/b5Z5VVQVCTiXc4ZzETF4H0yq3VwHCQ==
+"@types/react-test-renderer@16.9.12":
+  version "16.9.12"
+  resolved "https://registry.npmjs.org/@types/react-test-renderer/-/react-test-renderer-16.9.12.tgz"
+  integrity sha512-RJ4jeg32v2h1izOZ3gES/zQhQOwi6BEnZW890pmAuf3yVSfDm0wOR42YiWFiuSJJRyRykNaXEzis74+y3Ac9HQ==
   dependencies:
     "@types/react" "^16"
 
