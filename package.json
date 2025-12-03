@@ -13,7 +13,7 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "react": "17.0.2",
+    "react": "19.2.1",
     "react-native": "0.68.1"
   },
   "devDependencies": {
@@ -32,12 +32,12 @@
     "metro-react-native-babel-preset": "0.77.0",
     "prettier": "2.8.8",
     "pretty-quick": "3.3.1",
-    "react-test-renderer": "17.0.2",
+    "react-test-renderer": "19.2.1",
     "standard-version": "9.5.0",
     "typescript": "3.9.10"
   },
   "resolutions": {
-    "@types/react": "^17"
+    "@types/react": "^19.0.0"
   },
   "jest": {
     "preset": "react-native",
